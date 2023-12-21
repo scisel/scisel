@@ -1,45 +1,61 @@
-### Hi there 👋
+### Hi there.
 My name is Łukasz Ściseł, and I am determined to become a professional software tester.
 
 Below you will find my portfolio.
 
-----
-### Project Name:
+Additionally, I have included screenshots where you can see how I work with REST API (Postman), SQL (MySQL), and how I manage reports (Google Sheets, Jira, TestRail).
+
+## #1
+### Project name:
 Live Manual Testing Project: Online Software Testing Practice
 
-### Project Summary:
+### Project summary:
 I was put in a virtual corporate environment and I tested a demo banking website. I created and executed test cases and then compared them with sample test cases created by Guru99 experts. I had access to Sofware Requirements Specification.
 
 ### Reference:
 Guru99’s virtual experience program.
 
-### Completion Time:
+### Completion time:
 The project lasted for 13 days. I received one e-mail every 24 hours. Each e-mail contained tutorials, and tasks to complete.
 
 ### What I have learned:
 - what the actual testing process looks like in the corporate environment,
 - what does a document look like that describes what the software will do and how it is expected to perform,
-- what are unit tests, integration tests, and system tests
+- what are unit tests, integration tests, and system tests,
 - how to create test cases,
 - how to execute test cases,
-- how to test modules of application,
+- how to test modules of the application,
 - how to report bugs.
 
 ### What I have created:
-- backlog [Google Sheets document here](https://docs.google.com/spreadsheets/d/1cHQy8ifQJJT14hLBdCxtcXK6ndZrK823kww7ty21m38/edit#gid=0) 
-- module test scenarios/cases  [Google Sheets document here](https://docs.google.com/spreadsheets/d/1nKiKVvcPngOHWtf-8-jgC08PRpVD76AHFl91wB2M8Bc/edit?usp=sharing) 
+- backlog [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1cHQy8ifQJJT14hLBdCxtcXK6ndZrK823kww7ty21m38/edit#gid=0),
+- module test scenarios/cases  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1nKiKVvcPngOHWtf-8-jgC08PRpVD76AHFl91wB2M8Bc/edit?usp=sharing),
   
-  and module testing defect tracker  [Google Sheets document here](https://docs.google.com/spreadsheets/d/18caTbhnhyFdd0_751qsvCvxSfd6pHNtMg2C9GFLhcTE/edit?usp=sharing)
+  and module testing defect tracker  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/18caTbhnhyFdd0_751qsvCvxSfd6pHNtMg2C9GFLhcTE/edit?usp=sharing),
   
-- integration test scenarios/cases  [Google Sheets document here](https://docs.google.com/spreadsheets/d/117-0vLWJUZ6y1AfD4A8hDZop-xujOKD514F6ICNOKTc/edit?usp=sharing) 
+- integration test scenarios/cases  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/117-0vLWJUZ6y1AfD4A8hDZop-xujOKD514F6ICNOKTc/edit?usp=sharing),
   
-  and integration testing defect tracker  [Google Sheets document here](https://docs.google.com/spreadsheets/d/1ewQ22acefRgmsx2w6Qc7ArdStzv-7VZ6HRgvmkDAb7Y/edit?usp=sharing)
+  and integration testing defect tracker  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1ewQ22acefRgmsx2w6Qc7ArdStzv-7VZ6HRgvmkDAb7Y/edit?usp=sharing),
   
-- system test scenarios/cases  [Google Sheets document here](https://docs.google.com/spreadsheets/d/1t_3Zy7IhPQ7wYaRBm3bVSr5nY6jvcKCwfQVLQVLLAKE/edit?usp=sharing) 
+- system test scenarios/cases  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1t_3Zy7IhPQ7wYaRBm3bVSr5nY6jvcKCwfQVLQVLLAKE/edit?usp=sharing), 
   
-  and system testing defect tracker  [Google Sheets document here](https://docs.google.com/spreadsheets/d/1ylM4boIoCYbDwP8Wx4Lc9KYP1AU6n1YEQnfwCJX1pOc/edit) 
+  and system testing defect tracker  [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1ylM4boIoCYbDwP8Wx4Lc9KYP1AU6n1YEQnfwCJX1pOc/edit), 
 
+## #2
+### Project name:
+Manual testing of an online store with practical use of Jira and Zephyr.
 
+### What I have learned:
+- how to create, and configure the Jira project, and how to install and use Zephyr,
+- how to create test issues and how to start a sprint,
+- how to create test cases in Zephyr,
+- how to execute test cycle Zephyr and how to report bugs.
+
+### Examples of artifacts:
+- Jira detailed report [the PDF document here](https://drive.google.com/file/d/1eCdbf6YVvSFhLBCu1bCqdJ5olrGrfMBy/view),
+- test cases list [the screenshot from Zephyr here](https://drive.google.com/file/d/1OU-bxEBRfvdkLsZU4xZPkaHq3DlfhEeT/view),
+- executed test in test cycle [the screenshot from Zephyr here](https://drive.google.com/file/d/1SK3kcJVQuuL9_NBdj2w-19TIWQ5nRJ-U/view?usp=sharing),
+- backlog and the reported bug report [the screenshot from Jira here](https://drive.google.com/file/d/105cIAkqVyeFKrUococ4I3bGncGr2phx8/view),
 
 
 
