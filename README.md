@@ -3,7 +3,7 @@ My name is Łukasz Ściseł, and I am determined to become a professional softwa
 
 Below you will find my portfolio.
 
-Additionally, I have included screenshots where you can see how I work with REST API (Postman), SQL (MySQL), and how I manage reports (Google Sheets, Jira, TestRail).
+Additionally, I have included screenshots where you can see how I work with REST API (Postman), MySQL, and how I manage reports (Google Sheets, Jira, TestRail).
 
 ## #1
 ### Project name:
@@ -57,8 +57,21 @@ Manual testing of an online store with practical use of Jira and Zephyr.
 - executed test in test cycle [the screenshot from Zephyr here](https://drive.google.com/file/d/1SK3kcJVQuuL9_NBdj2w-19TIWQ5nRJ-U/view?usp=sharing),
 - backlog and the reported bug report [the screenshot from Jira here](https://drive.google.com/file/d/105cIAkqVyeFKrUococ4I3bGncGr2phx8/view),
 
+## #3
+### Examples of using technologies and tools:
+- examples of working with MySQL
 
+[the #1 screenshot from Mate Academy course](https://drive.google.com/file/d/19vxrc-usUMIVqT1Ef8yyuy0-8QEDN7qi/view),
 
+[the #2 screenshot from Mate Academy course](https://drive.google.com/file/d/1-DfuCuDhpsi861Sj7DGD4X_E5crhbKzC/view),
+
+[the #3 screenshot from Mate Academy course](https://drive.google.com/file/d/1BG27uK4kuhbNMNiLlBllsrAr2pEeehcp/view?usp=sharing).
+
+- examples of working with Postman (API testing)
+
+[the #1 screenshot from Postman](https://drive.google.com/file/d/1iWGWNXGdMCLcRZA3f9YEw_52PCC3GbZe/view),
+
+[the #1 screenshot from Postman](https://drive.google.com/file/d/1QdU6FAVNpwEoHXhszRk9rxF3EOSCwhvV/view).
 
 
 
