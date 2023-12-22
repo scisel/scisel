@@ -71,7 +71,23 @@ Manual testing of an online store with practical use of Jira and Zephyr.
 
 [the #1 screenshot from Postman](https://drive.google.com/file/d/1iWGWNXGdMCLcRZA3f9YEw_52PCC3GbZe/view),
 
-[the #1 screenshot from Postman](https://drive.google.com/file/d/1QdU6FAVNpwEoHXhszRk9rxF3EOSCwhvV/view).
+[the #2 screenshot from Postman](https://drive.google.com/file/d/1QdU6FAVNpwEoHXhszRk9rxF3EOSCwhvV/view).
+
+- examples of working with Jira (bug issues)
+
+[the #1 screenshot from Jira](https://drive.google.com/file/d/1XZntEbMvyrirhiH1GtVKCFtthqjOqcOs/view),
+
+[the #2 screenshot from Jira](https://drive.google.com/file/d/1XiHcZyZyks919lWmiH5KcyWHJaoAdo4a/view),
+
+[the #3 screenshot from Jira](https://drive.google.com/file/d/1eFMcYXZ5oNWaXbJ23HaywIoxxOhgYwfl/view).
+
+- examples of working with TestRail (test cases)
+
+[the #1 screenshot from TestRail](https://drive.google.com/file/d/16CfgRkoovNB_YeI6_PrL6uz-xkIzec9l/view),
+
+[the #2 screenshot from TestRail](https://drive.google.com/file/d/1aj9VX1kC4YqlLPIGHP1PAalr9LZeW7Xe/view),
+
+[the #3 screenshot from TestRail](https://drive.google.com/file/d/1SYunHJngWlriP4NqV2vGVgeducwoiWAH/view).
 
 
 
